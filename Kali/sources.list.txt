@@ -1,0 +1,9 @@
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repos>
+deb http://http.kali.org/kali kali-rolling main contrib non-free non-free>
+
+# Additional line for source packages
+# deb-src http://http.kali.org/kali kali-rolling main contrib non-free no>
+
+deb http://http.kali.org/kali kali-rolling main contrib non-free
+deb-src http://http.kali.org/kali kali-rolling main contrib non-free
+#deb http://kali.cs.nctu.edu.tw/kali kali-rolling main non-free contrib
